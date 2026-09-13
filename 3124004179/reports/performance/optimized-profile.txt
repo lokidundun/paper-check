@@ -1,0 +1,66 @@
+         1224677 function calls in 0.544 seconds
+
+   Ordered by: cumulative time
+   List reduced from 28 to 25 due to restriction <25>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    0.544    0.544 similarity.py:32(similarity)
+        4    0.000    0.000    0.200    0.050 __init__.py:595(__init__)
+        4    0.000    0.000    0.200    0.050 __init__.py:669(update)
+        4    0.127    0.032    0.200    0.050 {built-in method _collections._count_elements}
+        2    0.000    0.000    0.172    0.086 similarity.py:18(cosine_similarity)
+        6    0.050    0.008    0.172    0.029 {built-in method builtins.sum}
+        2    0.001    0.000    0.171    0.086 similarity.py:12(normalize_text)
+        2    0.044    0.022    0.167    0.084 {method 'join' of 'str' objects}
+   246002    0.087    0.000    0.124    0.000 similarity.py:15(<genexpr>)
+   120201    0.041    0.000    0.092    0.000 similarity.py:24(<genexpr>)
+   120199    0.051    0.000    0.051    0.000 {method 'get' of 'dict' objects}
+   126000    0.039    0.000    0.039    0.000 similarity.py:48(<genexpr>)
+   246000    0.037    0.000    0.037    0.000 {method 'isalnum' of 'str' objects}
+   120000    0.034    0.000    0.034    0.000 similarity.py:47(<genexpr>)
+   126009    0.016    0.000    0.016    0.000 similarity.py:26(<genexpr>)
+   120201    0.014    0.000    0.014    0.000 similarity.py:25(<genexpr>)
+        2    0.003    0.001    0.003    0.001 {method 'casefold' of 'str' objects}
+        2    0.001    0.000    0.001    0.000 {built-in method unicodedata.normalize}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        4    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+        4    0.000    0.000    0.000    0.000 <frozen abc>:117(__instancecheck__)
+        4    0.000    0.000    0.000    0.000 {built-in method _abc._abc_instancecheck}
+        2    0.000    0.000    0.000    0.000 {built-in method math.sqrt}
+        3    0.000    0.000    0.000    0.000 {built-in method builtins.max}
+        8    0.000    0.000    0.000    0.000 {built-in method builtins.len}
+
+
+         1224677 function calls in 0.544 seconds
+
+   Ordered by: internal time
+   List reduced from 28 to 25 due to restriction <25>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        4    0.127    0.032    0.200    0.050 {built-in method _collections._count_elements}
+   246002    0.087    0.000    0.124    0.000 similarity.py:15(<genexpr>)
+   120199    0.051    0.000    0.051    0.000 {method 'get' of 'dict' objects}
+        6    0.050    0.008    0.172    0.029 {built-in method builtins.sum}
+        2    0.044    0.022    0.167    0.084 {method 'join' of 'str' objects}
+   120201    0.041    0.000    0.092    0.000 similarity.py:24(<genexpr>)
+   126000    0.039    0.000    0.039    0.000 similarity.py:48(<genexpr>)
+   246000    0.037    0.000    0.037    0.000 {method 'isalnum' of 'str' objects}
+   120000    0.034    0.000    0.034    0.000 similarity.py:47(<genexpr>)
+   126009    0.016    0.000    0.016    0.000 similarity.py:26(<genexpr>)
+   120201    0.014    0.000    0.014    0.000 similarity.py:25(<genexpr>)
+        2    0.003    0.001    0.003    0.001 {method 'casefold' of 'str' objects}
+        2    0.001    0.000    0.001    0.000 {built-in method unicodedata.normalize}
+        2    0.001    0.000    0.171    0.086 similarity.py:12(normalize_text)
+        1    0.000    0.000    0.544    0.544 similarity.py:32(similarity)
+        2    0.000    0.000    0.172    0.086 similarity.py:18(cosine_similarity)
+        4    0.000    0.000    0.200    0.050 __init__.py:595(__init__)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        4    0.000    0.000    0.200    0.050 __init__.py:669(update)
+        4    0.000    0.000    0.000    0.000 {built-in method _abc._abc_instancecheck}
+        2    0.000    0.000    0.000    0.000 {built-in method math.sqrt}
+        4    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+        3    0.000    0.000    0.000    0.000 {built-in method builtins.max}
+        4    0.000    0.000    0.000    0.000 <frozen abc>:117(__instancecheck__)
+        8    0.000    0.000    0.000    0.000 {built-in method builtins.len}
+
+
